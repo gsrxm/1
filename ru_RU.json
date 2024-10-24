@@ -1268,7 +1268,7 @@
 	"UI_TAB_MISSIONS": "Миссии",
 	"UI_TAB_MOBILE": "Мобильный",
 	"UI_TAB_MODEL_SWAPPER": "Модель",
-	"UI_TAB_MXMENU": "Mx-Force",
+	"UI_TAB_MXMENU": "MxMenu",
 	"UI_TAB_ONLINE": "Онлайн",
 	"UI_TAB_ONLINE_MAIN": "Главная",
 	"UI_TAB_OUTFIT": "Редактор нарядов",
@@ -1379,5 +1379,14 @@
 	"BATTLEYE_SERVER": "Enable BattlEye Server (BETA)",
 	"BATTLEYE_SERVER_DESC": "Runs a real BattlEye server on your client when you are the host.\nThis will flag modders and might help avoid untrusted host errors",
 	"BATTLEYE_UPDATE_KICK": "BattlEye Update",
-	"BATTLEYE_UPDATE_KICK_DESC": "Kicks the player with a BattlEye update message.\nThe player must restart the game to be able to go online again"
+	"BATTLEYE_UPDATE_KICK_DESC": "Kicks the player with a BattlEye update message.\nThe player must restart the game to be able to go online again",
+	"ACTIVATE": "Activate",
+	"GET_LICENSE_KEY": "Get License Key",
+	"PASTE_LICENSE_KEY": "Paste License Key",
+	"ERROR": "Error",
+	"KEY_INVALID": "Your license key is invalid.",
+	"PLEASE_WAIT": "Please Wait...",
+	"ERROR_OCCURRED": "An error has occurred (Code 0x{:X}).",
+	"ACTIVATION": "Activation",
+	"USER_BANNED": "You are banned from MxMenu."
 }
