@@ -1,0 +1,22 @@
+{
+	"version": 47,
+	"default_lang": "en_US",
+	"translations": {
+		"en_US": {
+			"name": "English (US)",
+			"file": "en_US.json"
+		},
+		"de_DE": {
+			"name": "Deutsch (DE)",
+			"file": "de_DE.json"
+		},
+		"ru_RU": {
+			"name": "Russian (RU)",
+			"file": "ru_RU.json"
+		},
+		"pt_BR": {
+			"name": "Português (BR)",
+			"file": "pt_BR.json"
+		}
+	}
+}
