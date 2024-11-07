@@ -1388,5 +1388,14 @@
 	"PLEASE_WAIT": "Please Wait...",
 	"ERROR_OCCURRED": "An error has occurred (Code 0x{:X}).",
 	"ACTIVATION": "Activation",
-	"USER_BANNED": "You are banned from MxMenu."
+	"USER_BANNED": "You are banned from MxMenu.",
+	"PONG_CLOSE_MENU": "Close MxMenu so you can control Pong with your arrow keys",
+	"PONG_INV_WAITING": "Waiting for {} to accept your invitation",
+	"PONG_GET_READY": "Get Ready!",
+	"PONG_INV": "Invite To Pong",
+	"PONG_ACCEPT": "Accept Pong Invite",
+	"PONG_CANCEL": "Cancel Pong Game",
+	"MXONLY": "This is only available on MxMenu users",
+	"PONG_INV_REC": "{} has invited you to play Pong. Use 'Player > Misc > Accept Pong Invite' to accept",
+	"PONG_CANCELLED": "{} has cancelled the game"
 }
